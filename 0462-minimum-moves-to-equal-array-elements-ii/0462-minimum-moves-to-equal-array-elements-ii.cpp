@@ -8,12 +8,11 @@ public:
         int m = 0;
 
         for(int i = 0;i < nums.size();i++){
-            if(i == mid){
-                continue;
-            }
-            else{
+            // if(i == mid){
+            //     continue;
+            // }
                 m += abs(nums[i] - nums[mid]);
-            }
+            
         }
         return m;
         
