@@ -12,14 +12,6 @@ public:
             nums1.push_back(i);
         }
 
-
-
-        
-
-         
-        
-
-
         return sort(nums1.begin(),nums1.end());
         
     }
