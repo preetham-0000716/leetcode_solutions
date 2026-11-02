@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Dynamic Programming
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
