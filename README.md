@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/preetham-0000716/leetcode_solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/preetham-0000716/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
