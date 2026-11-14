@@ -40,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/preetham-0000716/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/preetham-0000716/leetcode_solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/preetham-0000716/leetcode_solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0788-rotated-digits](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0788-rotated-digits) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/preetham-0000716/leetcode_solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/preetham-0000716/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sorting
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/preetham-0000716/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/preetham-0000716/leetcode_solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Counting
 |  |
 | ------- |
