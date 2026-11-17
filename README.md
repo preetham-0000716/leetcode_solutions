@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [1539-kth-missing-positive-number](https://github.com/preetham-0000716/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/preetham-0000716/leetcode_solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/preetham-0000716/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/preetham-0000716/leetcode_solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1539-kth-missing-positive-number](https://github.com/preetham-0000716/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
