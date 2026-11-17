@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/preetham-0000716/leetcode_solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/preetham-0000716/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/preetham-0000716/leetcode_solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3523-make-array-non-decreasing](https://github.com/preetham-0000716/leetcode_solutions/tree/master/3523-make-array-non-decreasing) |
 | [3834-merge-adjacent-equal-elements](https://github.com/preetham-0000716/leetcode_solutions/tree/master/3834-merge-adjacent-equal-elements) |
 ## Stack
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/preetham-0000716/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/preetham-0000716/leetcode_solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/preetham-0000716/leetcode_solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Counting
 |  |
 | ------- |
