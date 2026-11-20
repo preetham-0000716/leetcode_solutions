@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0739-daily-temperatures](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/preetham-0000716/leetcode_solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3523-make-array-non-decreasing](https://github.com/preetham-0000716/leetcode_solutions/tree/master/3523-make-array-non-decreasing) |
@@ -89,4 +90,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/preetham-0000716/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
