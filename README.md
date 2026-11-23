@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0905-sort-array-by-parity](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/preetham-0000716/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/preetham-0000716/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/preetham-0000716/leetcode_solutions/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0905-sort-array-by-parity](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 ## Sliding Window
 |  |
 | ------- |
