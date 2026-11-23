@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/preetham-0000716/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
