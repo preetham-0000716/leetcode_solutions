@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/preetham-0000716/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/preetham-0000716/leetcode_solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1539-kth-missing-positive-number](https://github.com/preetham-0000716/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/preetham-0000716/leetcode_solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/preetham-0000716/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/preetham-0000716/leetcode_solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/preetham-0000716/leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/preetham-0000716/leetcode_solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/preetham-0000716/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
